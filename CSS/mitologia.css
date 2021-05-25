@@ -1,0 +1,41 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.navbar{
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+.cosas{
+    font-family: 'Pattaya', sans-serif;
+    color: white;
+}
+
+.card{
+    background-color: #E5FA46;
+}
+
+.parrafo{
+    font-size: 20px;
+}
+
+.vic{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.a{
+    color: black;
+    text-decoration: none;
+}
+
+.Seres{
+    color: white;
+    text-decoration: none;
+}
+
+.foto{
+    width: 400px;
+    height: 350px;
+}
